@@ -47,6 +47,7 @@ def self.artist_count
       hash[artist] = 1 
     end
   end
+  return hash
 end
 
 end
