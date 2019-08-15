@@ -36,3 +36,5 @@ def self.genre_count
   end
   return hash
 end
+
+end
