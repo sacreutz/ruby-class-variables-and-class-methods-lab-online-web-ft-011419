@@ -33,6 +33,7 @@ def self.genre_count
       hash[genre] += 1 
     else 
       hash[genre] = 1
+    end
   end
   return hash
 end
